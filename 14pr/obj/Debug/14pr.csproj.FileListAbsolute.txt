@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\зиновьева\алгоритмизация\14_pr\14pr\14pr\obj\Debug\14pr.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\зиновьева\алгоритмизация\14_pr\14pr\14pr\obj\Debug\14pr.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\зиновьева\алгоритмизация\14_pr\14pr\14pr\bin\Debug\14pr.exe.config
+C:\Users\Admin\Desktop\зиновьева\алгоритмизация\14_pr\14pr\14pr\bin\Debug\14pr.exe
+C:\Users\Admin\Desktop\зиновьева\алгоритмизация\14_pr\14pr\14pr\bin\Debug\14pr.pdb
+C:\Users\Admin\Desktop\зиновьева\алгоритмизация\14_pr\14pr\14pr\obj\Debug\14pr.exe
+C:\Users\Admin\Desktop\зиновьева\алгоритмизация\14_pr\14pr\14pr\obj\Debug\14pr.pdb
